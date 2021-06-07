@@ -41,6 +41,8 @@
     "jwtSecretKey": "MjIxM2E1MGFiYzY5YTRiMzY3ZjgwMWZjNTAzZjVlZTRlMjNkYzQyN2EwZGEwMGNlZTI4MzYwM2JmNGY2Y2ZhN2RiNjFiODZlN2UzY2VmZmY1Zjk5ZTQ1YjI4NGZmMGNmMDJjMmJiNzlkMDE5NzQzM2E3Y2E4OWQwZWMyNmYyMGQ=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1623048838000,
+    "entities": ["Song", "Singer", "Album"]
   }
 }

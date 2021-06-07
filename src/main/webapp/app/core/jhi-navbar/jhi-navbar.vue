@@ -29,6 +29,30 @@
             <font-awesome-icon icon="th-list" />
             <span class="no-bold">Entities</span>
           </span>
+          <b-dropdown-item to="/song">
+            <font-awesome-icon icon="asterisk" />
+            <span>Song</span>
+          </b-dropdown-item>
+          <b-dropdown-item to="/singer">
+            <font-awesome-icon icon="asterisk" />
+            <span>Singer</span>
+          </b-dropdown-item>
+          <b-dropdown-item to="/song">
+            <font-awesome-icon icon="asterisk" />
+            <span>Song</span>
+          </b-dropdown-item>
+          <b-dropdown-item to="/album">
+            <font-awesome-icon icon="asterisk" />
+            <span>Album</span>
+          </b-dropdown-item>
+          <b-dropdown-item to="/song">
+            <font-awesome-icon icon="asterisk" />
+            <span>Song</span>
+          </b-dropdown-item>
+          <b-dropdown-item to="/singer">
+            <font-awesome-icon icon="asterisk" />
+            <span>Singer</span>
+          </b-dropdown-item>
           <!-- jhipster-needle-add-entity-to-menu - JHipster will add entities to the menu here -->
         </b-nav-item-dropdown>
         <b-nav-item-dropdown
